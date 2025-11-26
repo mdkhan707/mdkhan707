@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend** **React Native**
 
 - 💬 Ask me anything about **Flutter**
 
