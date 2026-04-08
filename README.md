@@ -10,7 +10,7 @@
 
 - 💬 Ask me anything about **Flutter**
 
-- 📫 How to reach me **dk03356000@gmail.com**
+- 📫 How to reach me **mdaniyalkhan783@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
